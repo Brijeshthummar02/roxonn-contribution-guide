@@ -8,6 +8,13 @@ Roxonn is a Decentralized Software Organization (DSO) where contributors earn RO
 
 ### Contribution Rewards
 
+### Contribution Rewards (development phase) *Don't consider these as finalized values
+| Task Type | Points | ROXN Tokens | Value (₹) |
+|-----------|--------|-------------|-----------|
+| Minor Bug Fix | 10 | 10 ROXN | ₹30 |
+| Major Bug Fix | 50 | 50 ROXN | ₹150 |
+| Feature Development | 100 | 100 ROXN | ₹300 |
+
 | Task Type           | Points | ROXN Tokens | Value (₹) |
 |---------------------|--------|-------------|-----------|
 | Minor Bug Fix       | 10     | 10 ROXN     | ₹30       |
@@ -253,3 +260,5 @@ License
 -------
 
 This repository is licensed under the MIT License. Feel free to use it for educational and learning purposes!
+Ready to start? Check out our projects and earn your first ROXN tokens today! 🚀                  
+  
